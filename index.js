@@ -5,7 +5,7 @@ const { obterGAsProximos } = require('./dados');
 
 // ⚠️ LISTA DE VISITANTES (Digite os números com DDD)
 const listaNumerosDisparo = [
-    "554797379701" // O número do visitante cadastrado
+    "554797170685" // O número do visitante cadastrado
 ];
 
 const MENSAGEM_BOAS_VINDAS = 
